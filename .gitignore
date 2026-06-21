@@ -1,0 +1,21 @@
+# Database
+lightnovel-backend/lightnovel.db
+lightnovel-backend/lightnovel.db-journal
+
+# Environment Config
+lightnovel-backend/.env
+
+# Python Caches
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
